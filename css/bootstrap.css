@@ -2299,14 +2299,14 @@ pre code {
     .col-sm-3,
     .col-sm-4,
     .col-sm-5,
-    /* .col-sm-6, */
+    .col-sm-6,
     .col-sm-7,
     .col-sm-8,
     .col-sm-9 {
         float: left;
     }
     .col-sm-6{
-        float:none;
+        float:left;
         margin-left: auto;
         margin-right: auto;
     }
@@ -2329,7 +2329,7 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 70%
+        width: 50%
     }
     .col-sm-5 {
         width: 41.66666667%
